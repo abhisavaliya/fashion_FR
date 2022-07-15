@@ -18,7 +18,7 @@ cycler==0.10.0
 dask==2.19.0
 decorator==4.4.2
 defusedxml==0.6.0
-distributed==2.19.0
+distributed==2021.10.0
 entrypoints==0.3
 filelock==3.0.12
 fileupload==0.1.5
